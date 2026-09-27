@@ -1,0 +1,14 @@
+﻿{
+    "name": "TechCosmos.Tool.Draw2D",
+    "rootNamespace": "TechCosmos.Tool.Draw2D",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

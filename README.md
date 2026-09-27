@@ -336,7 +336,7 @@ canvas.Dispose();
 
 不要指定名字以 `UI/` 开头的着色器。那些着色器依赖 Canvas 裁剪，画在世界里会什么都看不到。
 
-同目录下的 `Draw2DUnlit.shader` 就是默认着色器，名字是 `ShowInformation/Draw2DUnlit`。它按顶点颜色做透明混合。
+`Runtime/Draw2DUnlit.shader` 就是默认着色器，名字是 `ShowInformation/Draw2DUnlit`。它按顶点颜色做透明混合。
 
 ## 示例场景
 
